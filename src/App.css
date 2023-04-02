@@ -1,0 +1,20 @@
+.App{
+    display: flex;
+    
+}
+
+#btn1{
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+
+.HomeOption{
+    display: flex;
+    justify-content: space-around;
+    width: 66%;
+    position: relative;
+    left: 275px;
+    bottom: 416px;
+
+}
